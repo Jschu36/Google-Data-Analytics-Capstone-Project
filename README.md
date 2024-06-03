@@ -1,6 +1,6 @@
 This project was created for the capstone project at the end of Google's data analytics certificate course.
 
-The idea behind the project is as follows: a bike-share company interested is in maximizing the number of riders signing up for their annual membership. In order to do so they must analyze trends between the behavior of riders who are annual members and those who are not, in order to devise strategies aimed at converting more non-members into members.
+The idea behind the project is as follows: a bike-share company is interested in maximizing the number of riders signing up for their annual membership. In order to do so they must analyze trends between the behavior of riders who are annual members and those who are not, in order to devise strategies aimed at converting more non-members into members.
 
 The raw data comes from spreadsheets made public by Divvy, chronicling rider behavior for each month of the year 2022.
 
